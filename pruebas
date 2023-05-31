@@ -6,7 +6,7 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=BvFinJ6u0ydt3PWvjbAiaTa6tfpaFMBSXtsQCU80nQrOXpwGdsxlsg==
+#KODIPROP:inputstream.adaptive.license_key=view-source:https://zt.welchdecrier.com/rKfeXBQcnicv6m/59321
 https://1061-vos.dtvott.com/DASH/manifest.mpd
 
 #EXTINF:-1 group-title="HD" ,Directv sports (58)
@@ -16,7 +16,7 @@ https://1061-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=BvFinJ6u0ydt3PWvjbAiaTa6tfpaFMBSXtsQCU80nQrOXpwGdsxlsg==
+#KODIPROP:inputstream.adaptive.license_key=https://zt.welchdecrier.com/rKfeXBQcnicv6m/59321
 https://1061-vos.dtvott.com/DASH/manifest.mpd
 
 #EXTINF:-1 group-title="HD" ,Directv sports (58)
