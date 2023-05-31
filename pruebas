@@ -1,0 +1,60 @@
+
+#EXTINF:-1 group-title="HD" ,Directv sports (58)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=BvFinJ6u0ydt3PWvjbAiaTa6tfpaFMBSXtsQCU80nQrOXpwGdsxlsg==
+https://1061-vos.dtvott.com/DASH/manifest.mpd
+
+#EXTINF:-1 group-title="HD" ,Directv sports (58)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=BvFinJ6u0ydt3PWvjbAiaTa6tfpaFMBSXtsQCU80nQrOXpwGdsxlsg==
+https://1061-vos.dtvott.com/DASH/manifest.mpd
+
+#EXTINF:-1 group-title="HD" ,Directv sports (58)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/juliocajas/keys1/main/directv1
+https://1061-vos.dtvott.com/DASH/manifest.mpd
+
+#EXTINF:-1 group-title="HD" ,Directv sports (58)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "bb0ecaa6ae62336197c64d4129c6a09d","kid": "cb0bba4522ffcd90a8b51541a0fcfae0"}],"type": "temporary"}
+https://1061-vos.dtvott.com/DASH/manifest.mpd
+
+#EXTINF:-1 group-title="HD" ,Directv sports (58)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/juliocajas/keys1/main/direcpu
+https://1061-vos.dtvott.com/DASH/manifest.mpd
+
+#EXTINF:-1 group-title="HD" ,Directv sports (58)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/juliocajas/keys1/main/directv
+https://1058-vos.dtvott.com/DASH/manifest.mpd
