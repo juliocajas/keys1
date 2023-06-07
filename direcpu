@@ -1,1 +1,172 @@
-{"keys":[{"kty":"oct","k":"Jc5PbNPuVhOSL5x/b24HvQ","kid":"FBPKoD4EV0O2SWIysJ5o+g"}],"type":"temporary"}
+<script>
+    let probabilidad = 40;
+    let percent = Math.floor(Math.random() * 100) + 1;
+    let isOk = percent>probabilidad;
+    if (id == 0000) {//0000
+        keyId = "0000";
+        key = "0000";
+    } else if (id == 1057) {//Directv Sports Argentina (X)
+        keyId = "bb0ecaa6ae62336197c64d4129c6a09d";
+        key = "cb0bba4522ffcd90a8b51541a0fcfae0";
+    } else if (id == 1059) {//Directv Sports Colombia (X)
+        keyId = "2fa59463176f3dc2964b91b4f7ae1d7c";
+        key = "81d5b95cc9057d6b0f85c78e6f0e41e7";
+    } else if (id == 1063) {//DSport 2 (X)
+        keyId = "ab020a1710d630168de21698375a439c";
+        key = "235898cdb10b0cdba35ea2ce94fbb1fb";
+    } else if (id == 1245) {//VTV (X)
+        keyId = "06997340922035bf8bbdb05ccad59aac";
+        key = "e54951d9df22a73a8ab2d951c67ca260";
+     } else if (id == 1246) {//VTV Plus (X)
+        keyId = "0b23302438ff324dab2eeaca5ea9f554";
+        key = "cd59eb711c8ac4ee0bf0c66f3e967a9c";
+    } else if (id == 1117) {//Fox Sport 1 Chile (X)
+        keyId = "5804b7a24ca1303d8511b6d49278610c";
+        key = "fc0a63fd4fb80fd67ad25646857082f5";
+    } else if (id == 1118) {//Fox SPorts 1 Argentina (X)
+        keyId = "76be81041e7133a38457f097d2b0041c";
+        key = "8ced846c9effd56d7e2a9276224bb3c5";
+    } else if (id == 1125) {//ESPN Premium (X)
+        keyId = "4cb49df341423cb597bf3e79b78f2a52";
+        key = "11ad69d2c84f41dbb520abfe38b19fe7";
+    } else if (id == 1240) {//TyC Sport Argentina (X)
+        keyId = "4d45b79d4487343589058ab49ddf8cf0";
+        key = "aa7f95f71a3cfe40aa59904f9285af72";
+    } else if (id == 1157) {//Latina TV Peru (X)
+        keyId = "174f5f2ee8193624bec9dd8e5d507a64";
+        key = "8ea131613f968b9c2b07d2d08ce5ef44";
+    } else if (id == 1011) {//America TV Peru (X)
+        keyId = "b9fc5a15382b35818904ecbeed545fd0";
+        key = "8b4d83e2c382780ca615ce6cd6754d79";
+    } else if (id == 1016) {//ATV Peru (X)
+        keyId = "bd16d3dc021e31369f1df0ce68f0a4f3";
+        key = "3b872c2fbf3c4c7e6a77f126b8ebdc92";
+    } else if (id == 1017) {//ATV+ Peru
+        keyId = "a85710136cd7392dabdaf4e2d7169b5f";
+        key = "dae80dc1e63aff5975cce0f302870b79";
+    } else if (id == 1249) {//Willax TV PERU (X)
+        keyId = "e0140e8c60d2362a9982f97276d0e1a4";
+        key = "f682dcb20c7068275840411916b79d85";
+    } else if (id == 1098) {//ESPN 2 (X)
+        keyId = "bfe0b4ea79d63f3ca8370f9465ad853a";
+        key = "6bf0a6db3672e1d1ebe22e494156ff5d";
+    } else if (id == 1103) {//ESPN 3 (X)
+        keyId = "f91c485f605b337cab75d446604d5dfc";
+        key = "933c006497039ce8b345d53a1131d8c4";
+    } else if (id == 1116) {//ESPN 4 CHILE
+        keyId = "120a14e524f637d4b897c0b70a52d91f";
+        key = "5c78b4010783b638eac8bc2e852858ac";
+    } else if (id == 1217) {//Telemundo Internacional
+        keyId = "576b5361b6273d2fbb14aae6e8eb646a";
+        key = "1e0c5591f570116dbf9f22da26d17226";
+    } else if (id == 1187) {//CANAL 10 URUGUAY (X)
+        keyId = "dfd472261dcf350594173e8acf5f97ad";
+        key = "313d66dcc3202f8cb471c51b864d3917";
+    } else if (id == 1093) {//Canal Gourmedt
+        keyId = "afb378efc4c937999a9237a734f9a67a";
+        key = "3b6ca02e5b0589cab0dd32db45308884";
+    } else if (id == 1162) {//Mega Chile
+        keyId = "6a8f63dac3923823a6fdfac3ce7f2a21";
+        key = "45be5c78b14caf1fa16535950d765b76";
+    } else if (id == 1030) {//Trece Chile (X)
+        keyId = "d0141f7c4c5b3b9fb023c229aa78f66e";
+        key = "fbb6d022cde627f2ebc3891735af5dd5";
+    } else if (id == 1134) {//Gol TV ECUADOR (X)
+        keyId = "3303b4c6982f381ea9e309009fbb3f27";
+        key = "a7fd49808f890c2500bf2180aaf42307";
+    } else if (id == 1108) {//ESPN MEXICO
+        keyId = "591cdbc97034330b849614a6efbfdfd4";
+        key = "d664407707d260f93908121d84df4eba";
+    } else if (id == 1231) {//TNT Sport 3 CHILE
+        keyId = "1743cd7101c73e2983ba928fbfcec307";
+        key = "cf38d2027de3affce951afcbd583458d";
+    } else if (id == 1250) {//Win Sport (X)
+        keyId = "f195c02916303b2691090ca545933afb";
+        key = "774d7a8fae5e6bde902c5b33bc33ce01";
+    } else if (id == 1214) {//TeleAmazonas (X)
+        keyId = "806e76a83b73357a96e1446ad152ff71";
+        key = "002babbb1c5869a0f2f8f34b711700c6";
+    } else if (id == 1185) {//RCN COLOMBIA
+        keyId = "fad9eaf7a980300686af7809c0377a00";
+        key = "0d270d4c1ef2a319aeaf2f424e9b1442";
+    } else if (id == 0068) {//SportTV BRASIL
+        keyId = "4f62db627bd93b718154cc8629e92976";
+        key = "09e37739a090140734904513ee2f4ce3";
+    }
+
+    if (
+        id == 1011 ||      
+        id == 1057 ||
+        id == 1059 ||
+        id == 1063 ||
+        id == 1125 ||
+        id == 1240 ||
+        id == 1116 ||      
+        id == 1118 ||
+        id == 1103 ||
+        id == 1246 ||
+        id == 1117 ||
+        id == 1245 ||
+        id == 1098 ||
+        id == 1217 ||
+        id == 1017 ||
+        id == 1187 ||
+        id == 1016 ||
+        id == 1103 ||
+        id == 1093 ||
+        id == 1111 ||
+        id == 1162 ||
+        id == 1030 ||
+        id == 1249 ||
+        id == 1134 ||
+        id == 1157 ||
+        id == 1108 ||
+        id == 1227 ||
+        id == 1231 ||
+        id == 1250 ||
+        id == 1214 ||
+        id == 1185 ||
+        id == 1187 ||
+        id == 0068
+    ) {
+        url = "https://" + id + "-vos.dtvott.com/DASH";
+    } else if (id == 1106 || id == 1251 || id == 1040 || id == 1035) {
+        url = "https:///dtvott-akaws.akamaized.net/live_" + id + "/DASH";
+    } else if (id == 1095 || id == 1264) {
+        url = "https://" + id + "-abc.dtvott.com/dash_live_" + id;
+    } else if (id == 1009) {
+        url = "https://dtvott-cwtests.akamaized.net/dash_live_" + id;
+    } else {
+        if (
+            id == 1122 ||
+            id == 1123 ||
+            id == 1124 ||
+            id == 1027 ||
+            id == 1211 ||
+            id == 1053 ||
+            id == 1091 ||
+            id == 1223 ||
+            id == 1144 ||
+            id == 1190 ||
+            id == 1081 ||
+            id == 1147 ||
+            id == 1012 ||
+            id == 1181 ||
+            id == 1076 ||
+            id == 1074 ||
+            id == 1148 ||
+            id == 1248 ||
+            id == 1045 ||
+            id == 1101 ||
+            id == 1107 ||
+            id == 1100 ||
+            id == 1115 ||
+            id == 1060 ||
+            id == 1069
+        )
+            letter = "c";
+        else letter = "a";
+
+        url = "https://dtvott-" + letter + "bc.akamaized.net/dash_live_" + id;
+    }
+</script>
