@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="DIRECTV(DTV)(101)">
+    <display-name lang="es">DIRECTV</display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+  <channel id="Telecaribe (COL)(TLCR)(142)">
+    <display-name lang="es">Telecaribe </display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+  <channel id="Canal TRO (COL)(TRO)(148)">
+    <display-name lang="es">Canal TRO (148)</display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+  <channel id="Telemedellín(TMED)(151)">
+    <display-name lang="es">Telemedellín</display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+  <channel id="Infomercials(AINF)(160)">
+    <display-name lang="es">Infomercials</display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+  <channel id="TV Familia (VEN)(FLIA)(170)">
+    <display-name lang="es">TV Familia (VEN)(FLIA)(170)</display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+  <channel id="RTU (ECU)(RTU)(177)">
+    <display-name lang="es">RTU </display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+  <channel id="La redonda TV (ECU)(REDO)(178)">
+    <display-name lang="es">La redonda TV </display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+  <channel id="Teleamazonas (ECU)(TA)(180)">
+    <display-name lang="es">Teleamazonas </display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+  <channel id="Teleamazonas HD (ECU)(TAHD)(180)">
+    <display-name lang="es">Teleamazonas HD </display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+  <channel id="TC Television (ECU)(TC)(181)">
+    <display-name lang="es">TC Television </display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+  <channel id="Ecuavisa (ECU)(EV)(182)">
+    <display-name lang="es">Ecuavisa (ECU)(EV)(182)</display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+  <channel id="Ecuavisa HD (ECU)(ECVIHD)(182)">
+    <display-name lang="es">Ecuavisa (182)</display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+  <channel id="Gamavisión (ECU)(GAMA)(183)">
+    <display-name lang="es">Gamavisión </display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+  <channel id="RTS Red Telesistemas (ECU)(RTS)(185)">
+    <display-name lang="es">RTS </display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+  <channel id="Ecuador TV (ECU)(ECTV)(187)">
+    <display-name lang="es">Ecuador </display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+  <channel id="Telerama (ECU)(TLRM)(188)">
+    <display-name lang="es">Telerama </display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+  <channel id="Oromar(ORO)(190)">
+    <display-name lang="es">Oromar</display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+  <channel id="Televicentro (ECU)(TVCE)(192)">
+    <display-name lang="es">Televicentro </display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+  <channel id="Manavision(MANA)(194)">
+    <display-name lang="es">Manavision</display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+  <channel id="DIRECTV SERIES HD(DTVSE)(200)">
+    <display-name lang="es">DIRECTV SERIES HD </display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+  <channel id="OnDIRECTV HD (Norte)(ODTVHD)(201)">
+    <display-name lang="es">OnDIRECTV HD </display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+  <channel id="OnDIRECTV (Norte)(ODTV)(201)">
+    <display-name lang="es">OnDIRECTV </display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+  <channel id="STAR Channel(STAR)(202)">
+    <display-name lang="es">STAR Channel</display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+  <channel id="STAR Channel HD(STAR)(204)">
+    <display-name lang="es">STAR Channel HD </display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+  <channel id="Warner Channel(WTV)(206)">
+    <display-name lang="es">Warner Channel</display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+</tv>
